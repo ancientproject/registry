@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GitVersionTask</id>
+    <version>5.2.4</version>
+    <title>GitVersionTask</title>
+    <authors>GitTools and Contributors</authors>
+    <owners>GitTools and Contributors</owners>
+    <developmentDependency>true</developmentDependency>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>package_icon.png</icon>
+    <projectUrl>https://github.com/GitTools/GitVersion</projectUrl>
+    <description>Stamps an assembly with git information based on SemVer.</description>
+    <releaseNotes>https://github.com/GitTools/GitVersion/releases</releaseNotes>
+    <copyright>Copyright GitTools 2020.</copyright>
+    <tags>Git Versioning GitVersion GitFlowVersion GitFlow GitHubFlow SemVer</tags>
+    <repository type="git" url="https://github.com/GitTools/GitVersion" branch="master" commit="643ba1fc16fad3d5659fead16c335fb6288ade7a" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+</package>
