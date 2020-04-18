@@ -1,0 +1,17 @@
+{
+  "id": "terminal",
+  "version": "2.0.0",
+  "type": "Binary",
+  "owner": "Yuuki Wesp",
+  "files": [
+    "#/TerminalDevice.cs"
+  ],
+  "iconUrl": null,
+  "license": "MIT",
+  "title": "A terminal device for ancient vm.",
+  "description": null,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ancientproject/terminal.git"
+  }
+}
