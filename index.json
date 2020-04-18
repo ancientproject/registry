@@ -1,7 +1,39 @@
 {
   "packages": [
     {
-      "id": "test.package"
+      "id": "blabla",
+      "version": "1.4.0",
+      "status": "Listed"
+    },
+    {
+      "id": "blabla",
+      "version": "1.5.0",
+      "status": "Listed"
+    },
+    {
+      "id": "foobar",
+      "version": "1.0.0",
+      "status": "Listed"
+    },
+    {
+      "id": "foobar",
+      "version": "1.1.0",
+      "status": "Listed"
+    },
+    {
+      "id": "foobar",
+      "version": "1.2.0",
+      "status": "Listed"
+    },
+    {
+      "id": "sulfate",
+      "version": "5.4.4-beta.14",
+      "status": "Listed"
+    },
+    {
+      "id": "sulfate",
+      "version": "5.4.4-beta.15",
+      "status": "Listed"
     }
   ]
 }
