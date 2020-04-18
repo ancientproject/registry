@@ -1,0 +1,14 @@
+{
+  "id": "sulfate",
+  "version": "5.4.4-beta.17",
+  "type": "Binary",
+  "owner": "Yuuki Wesp",
+  "files": [
+    "#/BeepDevice.cs"
+  ],
+  "iconUrl": null,
+  "license": null,
+  "title": null,
+  "description": null,
+  "repository": null
+}
