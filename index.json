@@ -6,6 +6,11 @@
       "status": "Listed"
     },
     {
+      "id": "beep",
+      "version": "2.0.1",
+      "status": "Listed"
+    },
+    {
       "id": "terminal",
       "version": "2.0.0",
       "status": "Listed"
