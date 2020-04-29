@@ -1,0 +1,17 @@
+{
+  "id": "kitty",
+  "version": "1.0.2",
+  "type": "Source",
+  "owner": "Yuuki Wesp",
+  "files": [
+    "#/src/KittyDevice.cs"
+  ],
+  "iconUrl": null,
+  "license": "MIT",
+  "title": "Device for provider nyan factor!",
+  "description": null,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ancientproject/kitty.git"
+  }
+}
