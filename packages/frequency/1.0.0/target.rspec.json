@@ -1,0 +1,18 @@
+{
+  "id": "frequency",
+  "version": "1.0.0",
+  "type": "Binary",
+  "owner": "Yuuki Wesp",
+  "files": [
+    "#/src/bin/Debug/netstandard2.1/publish/frequency.dll",
+    "#/src/bin/Debug/netstandard2.1/publish/UnitsNet.dll"
+  ],
+  "iconUrl": null,
+  "license": "MIT",
+  "title": "Device for displaying VM frequency",
+  "description": null,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ancientproject/frequency.git"
+  }
+}
