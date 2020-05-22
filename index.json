@@ -26,6 +26,11 @@
       "status": "Listed"
     },
     {
+      "id": "frequency",
+      "version": "1.0.4",
+      "status": "Listed"
+    },
+    {
       "id": "kitty",
       "version": "1.0.0",
       "status": "Listed"
